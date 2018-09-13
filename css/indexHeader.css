@@ -1960,10 +1960,10 @@
             }
             
             .bg {
-                background-image: url(/home/yash/ITBook/img/bg1.jpg);
+                background-image: url(../img/bg1.jpg);
                 height: 100%;
                 width: 1300px;
-                height: 519px;
+                height: 555px;
                 /* Center and scale the image nicely */
                 background-position: center;
                 background-repeat: no-repeat;
@@ -1971,10 +1971,10 @@
             }
             
             .bg-signup {
-                background-image: url(/home/yash/ITBook/img/bg1.jpg);
+                background-image: url(../img/bg1.jpg);
                 height: 100%;
                 width: 1300px;
-                height: 620px;
+                height: 655px;
                 /* Center and scale the image nicely */
                 background-position: center;
                 background-repeat: no-repeat;
@@ -2056,10 +2056,10 @@
             }
             
             .bg-login {
-                background-image: url(/home/yash/ITBook/img/bg1.jpg);
+                background-image: url(../img/bg1.jpg);
                 height: 100%;
                 width: 1300px;
-                height: 620px;
+                height: 655px;
                 /* Center and scale the image nicely */
                 background-position: center;
                 background-repeat: no-repeat;
